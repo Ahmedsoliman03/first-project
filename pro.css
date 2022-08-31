@@ -1,0 +1,158 @@
+body {
+    direction: ltr;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+p {
+    color: black;
+    font-size: 30px;
+}
+
+.tik {
+    color: brown;
+    border: 20px;
+    border: 5px solid rebeccapurple;
+    text-align: center;
+
+}
+
+#blabla {
+    width: 500px;
+    background-color: #DDD;
+    font-size: 30px;
+
+    text-align: left;
+    padding: 10px;
+    border: solid royalblue;
+    border-width: 5px;
+    border-color: blue;
+    margin: 50px 50px 50px 50px;
+
+
+}
+
+/*div {
+    height: 500px;
+    width: 500px;
+    background-image: url('../csss/css/Hacker-Thumb-a1.webp');
+    background-repeat: no-repeat;
+    background-attachment: bottom;
+    border: 1px solid #000;
+    ;
+
+}*/
+
+
+
+/*div:hover {
+    color: blue;
+}
+*/
+/*.lala {
+    text-transform: capitalize;
+    margin: 50px;
+}
+
+#blabla {
+
+    font-family: 'time new roman';
+    font-style: italic;
+    font-size: 200%;
+    font-weight: normal;
+
+}
+
+
+a {
+    color: teal;
+    font-weight: bold;
+    display: block;
+}
+
+/*a:hover {
+    color: black;
+}
+
+a:active {
+    color: green;
+    text-decoration: line-through;
+}*/
+
+/*rul {
+    list-style-type: none;
+    list-style-image: url('.//css/Hacker-Thumb-a1.webp');
+    list-style-position: inside
+}
+
+ul li {
+    border: 1px solid;
+}
+
+.lola,
+.bobo {
+    background-color: #DDD;
+    margin: 10px;
+    color: #000;
+}
+
+
+.soso .bar {
+    background: green;
+    color: #000;
+    position: relative;
+    padding: 30px;
+}
+
+.bobo div {
+    color: brown;
+}
+
+.nona {
+    color: blue;
+    background: rgb(242, 239, 239);
+    overflow: auto;
+    height: 20x;
+
+}
+
+.wow {
+    color: #DDD;
+    background: #000;
+    margin: 10px;
+    padding: 10px;
+}
+
+.waw {
+    color: blue;
+    background: #000;
+    margin: 10px;
+    padding: 10px;
+}
+
+.hhh aside>p {
+    color: yellow;
+    margin: 10px;
+    padding: 10px;
+    font-size: x-large;
+}
+
+* {
+    background-color: black;
+}
+
+p~div {
+    color: blue;
+}*/
+
+a[title="ggg"] {
+    color: slategray;
+}
+
+input[type="text"] {
+    margin: 10px;
+    padding: 10px;
+    color: red;
+
+}
