@@ -1,0 +1,20 @@
+.edit {
+    padding-top: 50px;
+    color: rgb(244, 166, 21);
+}
+
+.container {
+    margin-left: 100px;
+}
+
+img {
+    height: 300px;
+    width: 700px;
+}
+
+.image {
+    background: url('../first project/photo_5852456788857829878_y\ \(1\).jpg');
+    background-size: cover;
+    height: 350px;
+    width: 550px;
+}
