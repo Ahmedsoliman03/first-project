@@ -1,0 +1,134 @@
+.task {
+    margin-top: 5px;
+    background: url(../bootstrap4/task4/Group\ 34443.png) no-repeat center center;
+    height: 400px;
+    color: #FFFFFF;
+}
+
+.task img {
+    margin-top: 20px;
+
+}
+
+.task p {
+    position: relative;
+    bottom: 40px;
+}
+
+.par {
+    margin-top: 80px;
+}
+
+.task2 {
+    background: #EBEBEB;
+    width: 355px;
+    height: 430px;
+    margin-left: 360px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.task2 p {
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+.photo {
+    position: relative;
+    right: 130px;
+    bottom: 20px;
+}
+
+.ta {
+    background: #FD8B25;
+    width: 150px;
+    height: 3px;
+    position: relative;
+    left: 180px;
+    top: 20px;
+}
+
+.ma {
+    background: black;
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 5px;
+    color: #FFFFFF
+}
+
+.ma span {
+    position: relative;
+    bottom: 5px;
+}
+
+.sk {
+    background: #FFD2AA;
+    width: 150px;
+    height: 3px;
+    position: relative;
+    top: 17px;
+    left: 30px;
+}
+
+.as {
+    background: #F1F1F1;
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+    margin-left: 40px;
+    position: relative;
+    bottom: 5px;
+    color: #BCBCBC
+}
+
+.as span {
+    position: relative;
+    bottom: 5px;
+}
+
+.pag {
+    position: relative;
+    left: 100px;
+    top: 25px;
+}
+
+.gap {
+    position: relative;
+    right: 90px;
+}
+
+form {
+
+    overflow-y: hidden;
+    text-align: right;
+    direction: rtl;
+    color: white;
+    margin-top: 25px;
+}
+
+.form-control {
+    margin-bottom: -30px;
+    width: 300px;
+    margin-right: 20px;
+}
+
+.photoo {
+    position: relative;
+    right: 25px;
+
+}
+
+button {
+    background-color: #FD8B25;
+    width: 150px;
+    height: 45px;
+    border: 1px;
+    color: white;
+    position: relative;
+    bottom: 60px;
+    left: 5px;
+}
